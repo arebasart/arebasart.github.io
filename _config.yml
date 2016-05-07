@@ -36,8 +36,8 @@ titlecase: true
 
 
 # Site owner
-owner: Arelys
-  name:
+owner: 
+  name: Arelys
   email:
   twitter:
   google:
